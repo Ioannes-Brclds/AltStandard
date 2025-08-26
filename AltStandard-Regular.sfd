@@ -8,8 +8,8 @@ Version: 2.7a
 ItalicAngle: 0
 UnderlinePosition: -158
 UnderlineWidth: 40
-Ascent: 762
-Descent: 238
+Ascent: 760
+Descent: 240
 InvalidEm: 0
 sfntRevision: 0x0002b333
 LayerCount: 2
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300584531
-ModificationTime: 1755968522
+ModificationTime: 1756234759
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1000,7 +1000,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 841 29 11
+WinInfo: 1450 29 11
 BeginPrivate: 7
 BlueValues 31 [-18 0 456 468 684 700 712 730]
 OtherBlues 31 [-294 -282 -238 -228 -168 -156]

@@ -8,8 +8,8 @@ Version: 2.7a
 ItalicAngle: -15.2
 UnderlinePosition: -158
 UnderlineWidth: 40
-Ascent: 762
-Descent: 238
+Ascent: 760
+Descent: 240
 InvalidEm: 0
 sfntRevision: 0x0002b333
 LayerCount: 2
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300612368
-ModificationTime: 1755969029
+ModificationTime: 1756234796
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -965,20 +965,20 @@ LangName: 1049 "" "" "+BBoEQwRABEEEOAQy"
 LangName: 2068 "" "" "Kursiv"
 LangName: 2070 "" "" "It+AOEA-lico"
 LangName: 3082 "" "" "Cursiva"
-OtfFeatName: 'ss14' 1033 "Localized Forms for Old Slavonic"
-OtfFeatName: 'ss12' 1033 "Optional Serbian Variant Forms"
-OtfFeatName: 'ss11' 1033 "Localized Forms for Serbian"
-OtfFeatName: 'ss06' 1033 "Medial/Final Forms for Greek"
-OtfFeatName: 'ss05' 1033 "Closed Greek Theta"
-OtfFeatName: 'ss02' 1033 "Insular Forms for Old English"
 OtfFeatName: 'ss01' 1033 "Localized Forms for Romanian"
+OtfFeatName: 'ss02' 1033 "Insular Forms for Old English"
+OtfFeatName: 'ss05' 1033 "Closed Greek Theta"
+OtfFeatName: 'ss06' 1033 "Medial/Final Forms for Greek"
+OtfFeatName: 'ss11' 1033 "Localized Forms for Serbian"
+OtfFeatName: 'ss12' 1033 "Optional Serbian Variant Forms"
+OtfFeatName: 'ss14' 1033 "Localized Forms for Old Slavonic"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114093 29 11
+WinInfo: 1114006 29 11
 BeginPrivate: 6
 BlueValues 31 [-18 0 444 456 684 702 712 730]
 OtherBlues 31 [-294 -282 -248 -238 -168 -156]
