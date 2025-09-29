@@ -3,7 +3,7 @@ FontName: AltStandard-It
 FullName: Alt Standard It
 FamilyName: Alt Standard
 Weight: Regular
-Copyright: Copyright (c) 2006-2011 Alexey Kryukov <amkryukov@gmail.com>,\nwithout Reserved Font Names.\n\nCopyright (c) 2019-2021, Robert Alessi <alessi@robertalessi.net>,\nwithout Reserved Font Names.\n\nCopyright (c) 2023, Antonis Tsolomitis <atsol@aegean.gr>,\nwithout Reserved Font Names.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\nCopyright (c) 2025, Iohannes Bralesius <iohannesbralesius@gmail.com>, without Reserved Font Names.  \n--Modified OldStandard with a "not combining dot below" [U+E5CE] for textual criticism in papyrus, the one.oldstyle more high [Reg.+It.], and correction in oldstyle figures in It. font.
+Copyright: Copyright (c) 2006-2011 Alexey Kryukov <amkryukov@gmail.com>,\nwithout Reserved Font Names.\n\nCopyright (c) 2019-2021, Robert Alessi <alessi@robertalessi.net>,\nwithout Reserved Font Names.\n\nCopyright (c) 2023, Antonis Tsolomitis <atsol@aegean.gr>,\nwithout Reserved Font Names.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\nCopyright (c) 2025, Ioannes Bracledius <ioannesbracledius@gmail.com>, without Reserved Font Names.  \n--Modified OldStandard with a "not combining dot below" [U+E5CE] for textual criticism in papyrus, the osf more high like lining numbers.
 Version: 2.7a
 ItalicAngle: -15.2
 UnderlinePosition: -158
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300612368
-ModificationTime: 1758431339
+ModificationTime: 1759170910
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -965,20 +965,20 @@ LangName: 1049 "" "" "+BBoEQwRABEEEOAQy"
 LangName: 2068 "" "" "Kursiv"
 LangName: 2070 "" "" "It+AOEA-lico"
 LangName: 3082 "" "" "Cursiva"
-OtfFeatName: 'ss14' 1033 "Localized Forms for Old Slavonic"
-OtfFeatName: 'ss12' 1033 "Optional Serbian Variant Forms"
-OtfFeatName: 'ss11' 1033 "Localized Forms for Serbian"
-OtfFeatName: 'ss06' 1033 "Medial/Final Forms for Greek"
-OtfFeatName: 'ss05' 1033 "Closed Greek Theta"
-OtfFeatName: 'ss02' 1033 "Insular Forms for Old English"
 OtfFeatName: 'ss01' 1033 "Localized Forms for Romanian"
+OtfFeatName: 'ss02' 1033 "Insular Forms for Old English"
+OtfFeatName: 'ss05' 1033 "Closed Greek Theta"
+OtfFeatName: 'ss06' 1033 "Medial/Final Forms for Greek"
+OtfFeatName: 'ss11' 1033 "Localized Forms for Serbian"
+OtfFeatName: 'ss12' 1033 "Optional Serbian Variant Forms"
+OtfFeatName: 'ss14' 1033 "Localized Forms for Old Slavonic"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114093 29 11
+WinInfo: 0 29 11
 BeginPrivate: 6
 BlueValues 31 [-18 0 444 456 684 702 712 730]
 OtherBlues 31 [-294 -282 -248 -238 -168 -156]
