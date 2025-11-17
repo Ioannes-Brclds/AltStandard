@@ -1,1 +1,1 @@
-This is a modified OldStandard font with the nexts changes: 1- the oldstyle figures was modified for show more like at lining numbers; 2- was modified the kerning of osf; 3- was added a glyph called "NotCombiningDotBelow" in private area (U+E5CE) to using in papyrology.
+This is a modified OldStandard font with the nexts changes: the oldstyle figures was modified for show more like at lining numbers; was modified the kerning of osf; and was added a glyph called "NotCombiningDotBelow" in private area (U+E5CE) to using in papyrology.
