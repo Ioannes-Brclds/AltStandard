@@ -3,7 +3,7 @@ FontName: AltStandard-Regular
 FullName: Alt Standard Regular
 FamilyName: Alt Standard
 Weight: Regular
-Copyright: Copyright (c) 2006-2011 Alexey Kryukov <amkryukov@gmail.com>,\nwithout Reserved Font Names.\n\nCopyright (c) 2019-2023, Robert Alessi <alessi@robertalessi.net>,\nwithout Reserved Font Names.\n\nCopyright (c) 2023, Antonis Tsolomitis <atsol@aegean.gr>,\nwithout Reserved Font Names.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\nCopyright (c) 2025, Ioannes Bracledius <ioannesbracledius@gmail.com>, without Reserved Font Names.  \n--Modified OldStandard with a "not combining dot below" [U+E5CE] for textual criticism in papyrus, the osf more high like lining numbers.
+Copyright: Copyright (c) 2006-2011 Alexey Kryukov <amkryukov@gmail.com>,\nwithout Reserved Font Names.\n\nCopyright (c) 2019-2023, Robert Alessi <alessi@robertalessi.net>,\nwithout Reserved Font Names.\n\nCopyright (c) 2023, Antonis Tsolomitis <atsol@aegean.gr>,\nwithout Reserved Font Names.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\nCopyright (c) 2025, Juan J. Bracamonte L., without Reserved Font Names.
 Version: 2.7a
 ItalicAngle: 0
 UnderlinePosition: -158
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300584531
-ModificationTime: 1759170883
+ModificationTime: 1763535146
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -995,12 +995,13 @@ OtfFeatName: 'ss12' 1033 "Optional Serbian Variant Forms"
 OtfFeatName: 'ss14' 1033 "Localized Forms for Old Slavonic"
 OtfFeatName: 'ss15' 1033 "Old Cyrillic I and N"
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114093 29 11
+WinInfo: 1620 27 9
 BeginPrivate: 7
 BlueValues 31 [-18 0 456 468 684 700 712 730]
 OtherBlues 31 [-294 -282 -238 -228 -168 -156]
